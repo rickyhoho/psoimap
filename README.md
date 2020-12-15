@@ -3,8 +3,10 @@
   
 put under file like
 ```
+-2020hkpsoi_heat_question200
 -2020hkpsoi_heat_question200.xlsx
 -exceledit.py
+-gen_docx.py
 -maze
   -10122020190654_200
     -code
@@ -17,3 +19,5 @@ put under file like
 ```
 it will make a file inside the floder named ```remove```, ```new```, ```newmap.txt```
 change the ```True``` and ```Flase``` of bool ```draw```, ```star```, if necessary
+
+docx will be auto generate by ```gen_docx.py```
